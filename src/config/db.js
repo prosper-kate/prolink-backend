@@ -1,4 +1,4 @@
-I want to paste this on my src config dB.js
+
 
 
 const { Pool } = require('pg');
